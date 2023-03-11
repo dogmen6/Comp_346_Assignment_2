@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21459576-dbd9-43ea-ba07-3a10ab158115" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COMP_346_Assignment_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction2.txt" afterDir="false" />
-    </list>
+    <list default="true" id="21459576-dbd9-43ea-ba07-3a10ab158115" name="Changes" comment="assignment_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +29,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/doghm/IdeaProjects"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678552262940</updated>
     </task>
+    <task id="LOCAL-00001" summary="assignment_2">
+      <created>1678566002915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678566002915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +68,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
